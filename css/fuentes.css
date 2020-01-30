@@ -1,0 +1,55 @@
+@charset "UTF-8";
+@font-face {
+font-family: 'berthold-block-regular';
+src:url(../fuentes/block-berthold-bq-regular.otf),url(../fuentes/block_berthold_bq_regular-webfont.woff) format('woff');
+font-weight: bold;
+font-style: normal;	
+}
+@font-face {
+font-family: 'berthold-condensada-regular';
+src:url(../fuentes/block-berthold-condensed-regular.otf), url(../fuentes/block_berthold_condensed_regular-webfont.woff) format('woff');
+font-weight: bold;
+font-style: normal;		
+}
+@font-face {
+font-family: 'asap-bold';
+src:url(../fuentes/AsapCondensed-Bold.ttf), url(../fuentes/asapcondensed-bold-webfont.woff) format('woff');
+}
+@font-face {
+font-family: 'asap-bold-italic';
+src:url(../fuentes/AsapCondensed-BoldItalic.ttf), url(../fuentes/asapcondensed-bolditalic-webfont.woff) format('woff');
+}
+@font-face {
+font-family: 'asap-italic';
+src:url(../fuentes/AsapCondensed-Italic.ttf), url(../fuentes/asapcondensed-italic-webfont.woff) format('woff');
+}
+@font-face {
+font-family: 'asap-regular';
+src:url(../fuentes/AsapCondensed-Regular.ttf), url(../fuentes/asapcondensed-regular-webfont.woff) format('woff');
+}
+@font-face {
+font-family: 'khand-bold';
+src:url(../fuentes/Khand-Bold.ttf), url(../fuentes/khand-bold-webfont.woff) format('woff');
+}
+@font-face {
+font-family: 'khand-regular';
+src:url(../fuentes/Khand-Regular.ttf), url(../fuentes/khand-regular-webfont.woff) format('woff');
+}
+@font-face {
+font-family: 'faustina-bold';
+src:url(../fuentes/Faustina-Bold.ttf), url(../fuentes/faustina-bold-webfont.woff) format('woff');
+font-weight: bold;	
+}
+@font-face {
+font-family: 'faustina-bold-italica';
+src:url(../fuentes/Faustina-BoldItalic.ttf), url(../fuentes/faustina-bolditalic-webfont.woff) format('woff');
+}
+@font-face {
+font-family: 'faustina-regular-italica';
+src:url(../fuentes/Faustina-Italic.ttf), url(../fuentes/faustina-italic-webfont.woff) format('woff');
+}
+@font-face {
+font-family: 'faustina-regular';
+src:url(../fuentes/Faustina-Regular.ttf), url(../fuentes/faustina-regular-webfont.woff) format('woff');
+}
+
