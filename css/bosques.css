@@ -292,22 +292,22 @@ display: none;
 }
 
 .fondo-cap-1{
-background-image:url(../imagenes/generales/menu-chiribiquete-large.jpg);
+background-image:url(../imagenes/generales/portada.jpg);
 }
 .fondo-cap-2{
-background-image:url(../imagenes/generales/menu-boyaca-large.jpg);
+background-image:url(../imagenes/generales/portada.jpg);
 }
 .fondo-cap-3{
-background-image:url(../imagenes/generales/menu-caqueta-large.jpg);
+background-image:url(../imagenes/generales/portada.jpg);
 }
 .fondo-cap-4{
-background-image:url(../imagenes/generales/menu-guaviare-large.jpg);
+background-image:url(../imagenes/generales/portada.jpg);
 }
 .fondo-cap-5{
-background-image:url(../imagenes/generales/menu-tumaco-large.jpg);
+background-image:url(../imagenes/generales/portada.jpg);
 }
 .fondo-cap-6{
-background-image:url(../imagenes/generales/menu-sierra-large.jpg);
+background-image:url(../imagenes/generales/portada.jpg);
 }
 
 
@@ -329,7 +329,7 @@ top: -100%;
 background-color: rgba(0,0,0, 0.9);
 overflow: hidden;
 opacity: 0;
-background-image:url(../imagenes/generales/patron-menu.png);	
+background-image:url(../imagenes/generales/bk-pasto.png);	
 background-position: left center; 
 background-size: auto; 
 background-repeat: repeat;	
@@ -348,7 +348,7 @@ width: 100%;
 position: absolute; 
 z-index: 998;
 opacity: 0.5;
-background-image: url(../imagenes/chiribiquete/fondo-galeria-chiribiquete.jpg);	
+background-image: url(../imagenes/generales/portada.jpg);	
 background-position: center; 
 background-size: cover; 
 background-repeat: no-repeat;	
@@ -715,7 +715,7 @@ position: relative;
 background-color: rgba(0,0,0,0.9);	
 min-width:100%;
 z-index: 2;
-background-image:url(../imagenes/generales/patron-02.png);
+background-image:url(../imagenes/generales/bk-pasto.jpg);
 background-size:auto;
 background-position:center center;
 background-repeat:repeat;	
@@ -1313,7 +1313,7 @@ margin-bottom: 0rem !important;
 /*padding-bottom: 50% !important;*/
 padding-bottom: 48.5% !important;		
 background-color:rgba(32,56,36,1.00);
-background-image: url(../imagenes/generales/patron-02.png);
+background-image: url(../imagenes/generales/bk-pasto.jpg);
 background-position: center center;
 background-repeat: repeat;
 background-size: auto;
