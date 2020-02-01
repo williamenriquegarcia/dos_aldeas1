@@ -144,16 +144,20 @@ overflow: hidden;
 width:150px;
 margin-top: 20px;	
 }
+
 .caja-texto-home{
 opacity: 0;
 margin-top: -108px;	
 }
+
 .caja-texto-home p{
 font-family: 'faustina-regular';
 font-family: 'asap-regular';	
-font-size: 20px;
-line-height: 30px;
-color:rgba(255,255,255,1.00)	
+font-size: 26px;
+line-height: 33px;
+color:rgba(255,255,255,1.00);
+text-align: justify;
+font-weight: 100	
 }
 .caja-texto-home .capitalParrafo1 span {
 color:rgba(255,255,255,1.00)
@@ -180,7 +184,7 @@ z-index: 10;
 .contenedor-botones-secciones-home{
 display: flex;	
 flex-direction: column;
-height: 100vh;	
+height: 90vh;	
 /*border:3px solid pink;*/
 /*opacity: 0;*/	
 }
@@ -200,7 +204,10 @@ justify-content: flex-start;
 /*border:4px solid cyan;*/	
 }
 .contenedor-botones-secciones-home { 
-visibility: hidden; 
+	border-left: 2px solid white;
+	padding-left: 65px;
+	margin-top:50px;
+
 }
 .contenedor-botones-secciones-home > * { 
 visibility: visible; 
@@ -248,21 +255,19 @@ opacity: 0;
 }
 .panel-boton-home h2{
 font-family: 'berthold-condensada-regular';
-font-size: 30px;
-line-height: 30px;
+font-size: 35px;
+line-height: 50px;
 text-align: left;
-text-transform: uppercase;
 letter-spacing: 1px;
 color: rgba(255,255,255,1.00);
 margin-bottom: 0px;	
 }
 .panel-boton-home p {
 font-family: 'asap-regular';
-font-size: 14.5px;
+font-size: 23px;
 line-height: 16px;
 font-weight: 500;
 text-align: left;
-text-transform: uppercase;
 letter-spacing: 4px;
 color: rgba(255,255,255,1.00);
 text-shadow: 2px 2px 12px rgba(0,0,0,0.85);
@@ -1049,8 +1054,7 @@ background-repeat: no-repeat;
 .elemento-subtitulo-info{
 position: relative; 	
 width:100%; 
-height:25px;
-margin-bottom: 5px;	
+height:25px;	
 background-image: url(../imagenes/generales/elemento-dato-verde-top.png);
 background-position: left center;
 background-size: auto;
@@ -2362,8 +2366,7 @@ height: 53px;
 padding: 5px 0px 0px 10px;
 background-position: bottom center;
 background-repeat: no-repeat;
-background-size: auto;
-background-image: url(../imagenes/generales/franja-barra-nav-movil.png);		
+background-size: auto;		
 }
 .boton-ver-menu {
 width: 30px;
@@ -2728,7 +2731,8 @@ padding: 60px 0px 0px 0px;
 .bloque-left-home {
 display: block;
 height: auto;	
-padding: 30px 20px 0px 20px;	
+padding: 30px 20px 0px 20px;
+border-right: 2px solid white: 	
 }	
 .bloque-left-home h1 {
 font-size: 25px;

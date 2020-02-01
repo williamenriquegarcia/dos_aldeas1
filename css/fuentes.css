@@ -13,7 +13,7 @@ font-style: normal;
 }
 @font-face {
 font-family: 'asap-bold';
-src:url(../fuentes/DINPro-Bold.otf);
+src:url(../fuentes/DINPro-Light.otf);
 }
 @font-face {
 font-family: 'asap-bold-italic';
@@ -25,19 +25,19 @@ src:url(../fuentes/DINPro-Light.otf);
 }
 @font-face {
 font-family: 'asap-regular';
-src:url(../fuentes/DINPro-Medium.otf);
+src:url(../fuentes/DINPro-Light.otf);
 }
 @font-face {
 font-family: 'khand-bold';
-src:url(../fuentes/DINPro-Bold.otf);
+src:url(../fuentes/DINPro-Light.otf);
 }
 @font-face {
 font-family: 'khand-regular';
-src:url(../fuentes/DINPro-Regular.otf);
+src:url(../fuentes/DINPro-Light.otf);
 }
 @font-face {
 font-family: 'faustina-bold';
-src:url(../fuentes/DINPro-Bold.otf);
+src:url(../fuentes/DINPro-Light.otf);
 font-weight: bold;	
 }
 @font-face {
@@ -46,10 +46,10 @@ src:url(../fuentes/DINPro-Light.ttf);
 }
 @font-face {
 font-family: 'faustina-regular-italica';
-src:url(../fuentes/DINPro-Regular.otf);
+src:url(../fuentes/DINPro-Light.otf);
 }
 @font-face {
 font-family: 'faustina-regular';
-src:url(../fuentes/DINPro-Regular.ttf);
+src:url(../fuentes/DINPro-Light.ttf);
 }
 
