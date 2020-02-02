@@ -297,22 +297,22 @@ display: none;
 }
 
 .fondo-cap-1{
-background-image:url(../imagenes/generales/portada.jpg);
+background-image:url(../imagenes/generales/foto-portada-editorial.jpg);
 }
 .fondo-cap-2{
-background-image:url(../imagenes/generales/portada.jpg);
+background-image:url(../imagenes/generales/foto-portada-comercio-ilegal.jpg);
 }
 .fondo-cap-3{
-background-image:url(../imagenes/generales/portada.jpg);
+background-image:url(../imagenes/generales/foto-portada-regulacion.jpg);
 }
 .fondo-cap-4{
-background-image:url(../imagenes/generales/portada.jpg);
+background-image:url(../imagenes/generales/foto-portada-cuidagro.jpg);
 }
 .fondo-cap-5{
-background-image:url(../imagenes/generales/portada.jpg);
+background-image:url(../imagenes/generales/foto-portada-e-learning.jpg);
 }
 .fondo-cap-6{
-background-image:url(../imagenes/generales/portada.jpg);
+background-image:url(../imagenes/generales/foto-portada-foro.jpg);
 }
 
 
@@ -370,7 +370,7 @@ background-repeat: no-repeat;
 display: none;
 }
 .fondo-menu-chiribiquete{
-background-image:url(../imagenes/generales/menu-chiribiquete-large.jpg);
+background-image:url(../imagenes/generales/foto-portada-cuidagro.jpg);
 }
 .fondo-menu-boyaca{
 background-image:url(../imagenes/generales/menu-boyaca-large.jpg);
