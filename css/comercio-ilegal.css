@@ -1,0 +1,104 @@
+@charset "UTF-8";
+/* CSS Document */
+
+.caja-galeria-info-mapa img.imagen-galeria-full-01 {
+width: auto;
+}
+
+/*MEDIA QUERIES*/
+
+@media screen and (max-width:1280px) {
+.contenedor-galeria {
+background-attachment: scroll;
+}
+}
+
+@media screen and (max-width:1200px) {
+.caja-galeria-info-mapa .pie-foto {
+max-width: 200px;
+}
+}	
+
+@media screen and (max-width:1024px) {
+.boton-ocultar-pie-foto-movil-info-mapa {
+display: block;
+}
+.boton-ver-pie-foto-movil-info-mapa {
+display: block;
+}	
+/*.swiper-button-prev, .swiper-container-rtl .swiper-button-next {
+top: inherit;
+bottom: 10px;
+}	
+.swiper-button-next, .swiper-container-rtl .swiper-button-prev {
+top: inherit;
+bottom: 10px;
+}	
+.swiper-pagination {
+top: inherit;
+bottom: 70px !important;
+}*/
+
+.contenedor-galeria-mapa .swiper-button-prev, .swiper-container-rtl .swiper-button-next {
+top: inherit;
+bottom: 10px;
+}	
+.contenedor-galeria-mapa .swiper-button-next, .swiper-container-rtl .swiper-button-prev {
+top: inherit;
+bottom: 10px;
+}	
+.contenedor-galeria-mapa .swiper-pagination {
+top: inherit;
+bottom: 70px !important;
+}
+	
+
+.grupo-subtit-icono-info-mapa {
+margin-bottom: 0px;
+text-align: center;
+margin-left: 0px;
+margin-top: 40px;
+}	
+.icono-info-mapa {
+display: inline-block;
+}	
+.subtit-info-mapa h5 {
+text-align: center;
+}	
+.caja-galeria-info-mapa .pie-foto p {
+padding-left: 20px;
+padding-right: 20px;
+/* text-align: center; */
+}	
+
+	
+.caja-galeria-info-mapa .pie-foto {
+position: absolute;
+left: 0px;
+top: 0%;
+width: 100%;
+max-width: 100%;
+height: 100%;
+max-height: 100%;
+padding: 0px;
+background-color: rgba(13,39,33,0.85);
+display: none;
+}
+}
+
+
+@media screen and (max-width:767px) {
+.contenedor-apertura{
+background-position: center center;
+background-repeat: no-repeat;
+background-size: cover;
+background-image: url(../imagenes/boyaca/apertura-boyaca-movil.jpg);		
+image-rendering: -webkit-optimize-contrast;
+}
+}
+
+@media screen and (max-width:677px) {
+.swiper-pagination {
+bottom: 50px !important;
+}	
+}

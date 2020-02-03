@@ -369,23 +369,23 @@ background-size: cover;
 background-repeat: no-repeat;	
 display: none;
 }
-.fondo-menu-chiribiquete{
+.fondo-menu-1{
+background-image:url(../imagenes/generales/foto-portada-editorial.jpg);
+}
+.fondo-menu-2{
+background-image:url(../imagenes/generales/foto-portada-comercio-ilegal.jpg);
+}
+.fondo-menu-3{
+background-image:url(../imagenes/generales/foto-portada-regulacion.jpg);
+}
+.fondo-menu-4{
 background-image:url(../imagenes/generales/foto-portada-cuidagro.jpg);
 }
-.fondo-menu-boyaca{
-background-image:url(../imagenes/generales/menu-boyaca-large.jpg);
+.fondo-menu-5{
+background-image:url(../imagenes/generales/foto-portada-e-learning.jpg);
 }
-.fondo-menu-caqueta{
-background-image:url(../imagenes/generales/menu-caqueta-large.jpg);
-}
-.fondo-menu-guaviare{
-background-image:url(../imagenes/generales/menu-guaviare-large.jpg);
-}
-.fondo-menu-sierra{
-background-image:url(../imagenes/generales/menu-sierra-large.jpg);
-}
-.fondo-menu-tumaco{
-background-image:url(../imagenes/generales/menu-tumaco-large.jpg);
+.fondo-menu-6{
+background-image:url(../imagenes/generales/foto-portada-foro.jpg);
 }
 .caja-menu {
 display: flex;

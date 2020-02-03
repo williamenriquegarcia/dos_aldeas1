@@ -127,41 +127,41 @@ $(window).scroll(function(){
 
 $(document).ready(function(){
 	"use strict";	
-	$(".boton-capitulos-chiribiquete").hover(function(){
-		$(".fondo-menu-chiribiquete").stop(true).fadeIn(200);
+	$(".boton-capitulos-1").hover(function(){
+		$(".fondo-menu-1").stop(true).fadeIn(200);
 	});
-	$(".boton-capitulos-chiribiquete").mouseleave(function(){
-		$(".fondo-menu-chiribiquete").stop(true).fadeOut(200);
+	$(".boton-capitulos-1").mouseleave(function(){
+		$(".fondo-menu-1").stop(true).fadeOut(200);
 	});
-	$(".boton-capitulos-boyaca").hover(function(){
-		$(".fondo-menu-boyaca").stop(true).fadeIn(200);
+	$(".boton-capitulos-2").hover(function(){
+		$(".fondo-menu-2").stop(true).fadeIn(200);
 	});
-	$(".boton-capitulos-boyaca").mouseleave(function(){
-		$(".fondo-menu-boyaca").stop(true).fadeOut(200);
+	$(".boton-capitulos-2").mouseleave(function(){
+		$(".fondo-menu-2").stop(true).fadeOut(200);
 	});
-	$(".boton-capitulos-caqueta").hover(function(){
-		$(".fondo-menu-caqueta").stop(true).fadeIn(200);
+	$(".boton-capitulos-3").hover(function(){
+		$(".fondo-menu-3").stop(true).fadeIn(200);
 	});
-	$(".boton-capitulos-caqueta").mouseleave(function(){
-		$(".fondo-menu-caqueta").stop(true).fadeOut(200);
+	$(".boton-capitulos-3").mouseleave(function(){
+		$(".fondo-menu-3").stop(true).fadeOut(200);
 	});
-	$(".boton-capitulos-guaviare").hover(function(){
-		$(".fondo-menu-guaviare").stop(true).fadeIn(200);
+	$(".boton-capitulos-4").hover(function(){
+		$(".fondo-menu-4").stop(true).fadeIn(200);
 	});
-	$(".boton-capitulos-guaviare").mouseleave(function(){
-		$(".fondo-menu-guaviare").stop(true).fadeOut(200);
+	$(".boton-capitulos-4").mouseleave(function(){
+		$(".fondo-menu-4").stop(true).fadeOut(200);
 	});
-	$(".boton-capitulos-sierra").hover(function(){
-		$(".fondo-menu-sierra").stop(true).fadeIn(200);
+	$(".boton-capitulos-5").hover(function(){
+		$(".fondo-menu-5").stop(true).fadeIn(200);
 	});
-	$(".boton-capitulos-sierra").mouseleave(function(){
-		$(".fondo-menu-sierra").stop(true).fadeOut(200);
+	$(".boton-capitulos-5").mouseleave(function(){
+		$(".fondo-menu-5").stop(true).fadeOut(200);
 	});
-	$(".boton-capitulos-tumaco").hover(function(){
-		$(".fondo-menu-tumaco").stop(true).fadeIn(200);
+	$(".boton-capitulos-6").hover(function(){
+		$(".fondo-menu-6").stop(true).fadeIn(200);
 	});
-	$(".boton-capitulos-tumaco").mouseleave(function(){
-		$(".fondo-menu-tumaco").stop(true).fadeOut(200);
+	$(".boton-capitulos-6").mouseleave(function(){
+		$(".fondo-menu-6").stop(true).fadeOut(200);
 	});
 });
 
