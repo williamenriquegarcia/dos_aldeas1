@@ -42,7 +42,7 @@ font-weight: bold;
 }
 @font-face {
 font-family: 'faustina-bold-italica';
-src:url(../fuentes/DINPro-Light.ttf);
+src:url(../fuentes/DINPro-Light.otf);
 }
 @font-face {
 font-family: 'faustina-regular-italica';
@@ -50,6 +50,6 @@ src:url(../fuentes/DINPro-Light.otf);
 }
 @font-face {
 font-family: 'faustina-regular';
-src:url(../fuentes/DINPro-Light.ttf);
+src:url(../fuentes/DINPro-Light.otf);
 }
 
