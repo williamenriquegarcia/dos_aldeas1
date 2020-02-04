@@ -102,18 +102,18 @@ $(window).scroll(function(){
 	}
 });*/
 
-$(document).scroll(function () {
-"use strict";	
-var bodyRect = document.body.getBoundingClientRect(),
-    elemRect = document.getElementById("break").getBoundingClientRect(),
-    offset   = elemRect.top - bodyRect.top - window.innerHeight;
-    var y = $(this).scrollTop();
-    if (y > 100 && y < offset) {
-        $('.flecha-bajar').fadeIn();
-    } else {
-        $('.flecha-bajar').fadeOut();
-    }
-});
+// $(document).scroll(function () {
+// "use strict";	
+// var bodyRect = document.body.getBoundingClientRect(),
+//     elemRect = document.getElementById("break").getBoundingClientRect(),
+//     offset   = elemRect.top - bodyRect.top - window.innerHeight;
+//     var y = $(this).scrollTop();
+//     if (y > 100 && y < offset) {
+//         $('.flecha-bajar').fadeIn();
+//     } else {
+//         $('.flecha-bajar').fadeOut();
+//     }
+// });
 
 //ocultar-mostrar flecha bajar
 $(window).scroll(function(){
